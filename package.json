@@ -1,4 +1,16 @@
 {
+  "name": "ramen",
+  "version": "1.0.0",
+  "description": "## Description",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "inquirer": "^8.2.4",
     "jest": "^28.1.1"
