@@ -1,0 +1,38 @@
+.team-heading {
+            background-color: rgb(97, 97, 177);
+            padding: 20px;
+            border-bottom: 1px solid #e5e5e5;
+            color: #e5e5e5;
+        }
+        .team-area {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        .employee-card {
+            width: 300px;
+            margin: 20px;
+            border: 1px solid #e5e5e5;
+            border-radius: 5px;
+        }
+        .employee-card .header {
+            padding: 10px;
+        }
+        .employee-card .body {
+            padding: 10px;
+        }
+        .employee-card .body ul {
+            list-style: none;
+            padding: 0;
+        }
+        .employee-card .body li {
+            padding: 5px;
+            font-weight: bold;
+        }
+        .header{
+            background-color: rgb(97, 97, 177);
+            padding: 0;
+            border-bottom: 1px solid #e5e5e5;
+            color: #e5e5e5;
+        }
+        
